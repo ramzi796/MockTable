@@ -1,0 +1,28 @@
+table {
+    width: 90%;
+    background-color: cadetblue;
+}
+
+mat-paginator {
+  width: 90%;
+  background-color: cadetblue;
+}
+
+.root {
+  height: 100%;
+  background-color: lightblue;
+  overflow: auto;
+}
+
+.head {
+  text-align: center;
+  padding: 20px;
+  margin: 5px;
+  font-size: 35px;
+  background-color: darkcyan;
+}
+
+.tableContent {
+  padding: 10px;
+  padding-left: 10%;
+}
